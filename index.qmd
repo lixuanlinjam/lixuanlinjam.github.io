@@ -2,5 +2,4 @@
 title: "Lixuan's Website"
 ---
 
-Welcome to my personal website!/
-To be continued...
+Welcome to my personal website!
